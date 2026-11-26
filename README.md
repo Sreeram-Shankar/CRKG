@@ -1,6 +1,6 @@
 # CRKG — Chain Runge–Kutta–Gegenbauer methods
 
-Stabilized explicit Runge–Kutta schemes of orders 3 and 4 with physical, monotone-in-time stages and low internal amplification, intended for stagewise limiting on stiff parabolic / compressible Navier–Stokes problems.
+Stabilized explicit Runge–Kutta schemes of orders 3 and 4 with physical, monotone-in-time stages and low internal amplification, intended for stagewise limiting on stiff parabolic and mixed problems, with a focus on viscous CFD. 
 
 ## Layout
 
