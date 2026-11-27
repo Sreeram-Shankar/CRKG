@@ -13,7 +13,7 @@ using .CRKG3
 method = CRKG3
 Re = 200
 cells = (256, 256)
-grade_x, grade_y = 1.0, 2.5
+grade_x, grade_y = 0.0, 2.0   # y-only; mild uses grade_y = 1.0
 polydeg = 3
 t_start, t_window = 0.0, 1.0
 const C_h, C_p = 1.0, 1.0
